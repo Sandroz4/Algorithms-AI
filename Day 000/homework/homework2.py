@@ -30,7 +30,4 @@ def hw2_try1(num, b):
 
 # Testing the base-to-decimal conversion function
 print(hw2_try1(1001, 2))  # Convert binary 1001 to decimal
-print(hw2_try1(101, 4))   # Convert base-4 101 to decimal
-print(hw2_try1(520.1, 3)) # Convert base-3 number with fractional part
-print(hw2_try1(1001, 16)) # Convert hexadecimal-like number 1001 to decimal
 print(hw2_try1(520.3, 6)) # Convert base-6 number with fractional part

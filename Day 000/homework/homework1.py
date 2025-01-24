@@ -15,17 +15,9 @@ def hw1_try2_easy_version(a, b, c):
     else:
         return (b - a) // c + 1
 
-# Testing functions for counting multiples
+# Testing 
 print(hw1_try1(1, 20, 2))  # Example: counting multiples of 2 from 1 to 19
 print(hw1_try2(1, 20, 2))
 print(hw1_try2_easy_version(1, 20, 2))
-print()
-print(hw1_try1(12, 19, 3))  # Example: counting multiples of 3 from 12 to 18
-print(hw1_try2(12, 19, 3))
-print(hw1_try2_easy_version(12, 19, 3))
-print()
-print(hw1_try1(2, 20, 2))  # Example: counting multiples of 2 from 2 to 19
-print(hw1_try2(2, 20, 2))
-print(hw1_try2_easy_version(2, 20, 2))
-print("\n")
+
 
